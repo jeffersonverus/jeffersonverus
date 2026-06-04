@@ -1,0 +1,40 @@
+name: Generate Gifos Animation
+
+on:
+  workflow_dispatch: # Permite rodar manualmente
+  schedule:
+    - cron: "0 0 * * *" # Roda automaticamente toda meia-noite
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Dá permissão para o robô salvar a imagem no seu repositório
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          pip install gifos
+
+      - name: Run Script
+        env:
+          # É AQUI A MÁGICA: O GitHub pega o seu secret seguro e finge que é um .env no sistema
+          GITHUB_TOKEN: ${{ secrets.METRICS_2 }}
+        run: python main.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          # Só faz o commit se houver alguma alteração na imagem
+          git diff-index --quiet HEAD || git commit -m "Update profile animation"
+          git push
