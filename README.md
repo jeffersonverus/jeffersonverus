@@ -10,7 +10,7 @@
 Aqui você vai encontrar projetos, estudos de infraestrutura e códigos em desenvolvimento. Acredito que a tecnologia só atinge seu potencial quando combinada com os pilares fundamentais.
 
 ---
-|0|1|
+|00110001|00110010 |
 |---|---|
 |![Minhas Estatísticas do GitHub](metrics.classic.svg)|![Estatísticas do Repositório](metrics.repository.svg)|
 
