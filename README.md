@@ -25,16 +25,6 @@ Abaixo estão as principais tecnologias, linguagens e ferramentas que utilizo no
 
 <p align="center"><i>"Nadie es Sabio a Cabalo."</i></p>
 
-
-<br>
-<br>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersonverus&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
-
 <br>
 <br>
 
@@ -67,3 +57,11 @@ Abaixo estão as principais tecnologias, linguagens e ferramentas que utilizo no
   ]
 }
 ```
+
+---
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersonverus&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
