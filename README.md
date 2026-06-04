@@ -67,7 +67,6 @@ Abaixo estão as principais tecnologias, linguagens ou ferramentas que utilizo.
 <br>
 
 <p align="center"><i>"Nadie es Sabio a Cabalo."</i></p>
-<p align="center"><i>© 2026 jeffersonverus. Todos os direitos reservados.</i></p>
 
 <br>
 <br>
