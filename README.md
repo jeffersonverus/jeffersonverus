@@ -1,8 +1,8 @@
 ## J. Ryan
 
-### Coordinator of Information Technology | Network & Hardware Specialist | Tech Speaker
+### Information Tecnology Mannager | Network & Hardware Professional | Spreaker
 
-Aqui você vai encontrar meus projetos de automação, estudos de infraestrutura de redes e códigos de desenvolvimento. Acredito que a tecnologia só atinge seu potencial máximo quando combinada com uma comunicação clara, liderança empática e oratória assertiva.
+Aqui você vai encontrar projetos, estudos de infraestrutura e códigos em desenvolvimento. Acredito que a tecnologia só atinge seu potencial quando combinada.
 
 ---
 
@@ -12,9 +12,8 @@ Abaixo estão as principais tecnologias, linguagens e ferramentas que utilizo no
 
 | Categoria | Tecnologias e Ferramentas |
 |-----------|---------------------------|
-| **Infraestrutura & Redes** | <img src="https://upload.wikimedia.org/wikipedia/commons/archive/6/64/20180610231709%21Cisco_logo.svg" width="40" title="Cisco" /> <img src="https://raw.githubusercontent.com/tmusabaika/minimalistic-networking-icons/25719d8430bfe582313b5e919c4b43e746f4a8ed/svg/strokes-digital_minima_icons_assorted/minima_router.svg" width="40" title="Wireshark" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux" /> |
-| **Programação & IDEs** | <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" title="Linguagem C" /> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Breezeicons-apps-48-codeblocks.svg" width="40" title="Code::Blocks" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" title="Bash/Shell Script" /> |
-| **Sistemas & Hardware** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="40" title="Windows Server / Desktop" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" title="Kali Linux" /> |
+| **Infraestrutura & Redes** | <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Personal_computer%2C_exploded_4.svg" width=40 title="Components" /> <img src= "https://upload.wikimedia.org/wikipedia/commons/5/58/Oxygen480-apps-hardware.svg" width=40 title="Hardware" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/CCTV_fixed_camera.svg" width=40 title="Security camera" /> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/X25-network-diagram-0a.svg" width=40 title="Networking" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" title="Linguagem C" /> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Breezeicons-apps-48-codeblocks.svg" width="40" title="Code::Blocks" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Visual_Studio_Icon_2026.svg" width="40" title="Visual Studio" /> |
+| **Sistemas & Hardware** | <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Ubuntu_logoib.svg" width="40" title="Ubuntu" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" title="Kali Linux" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux" />|
 | **Produtividade & Design** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" title="Blender 3D" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg" width="40" title="Excel" /> |
 
 ---
