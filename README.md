@@ -1,5 +1,7 @@
 ## 💻Jefferson Ryan
 
+---
+
 <!-- C -->
 <i class="devicon-c-original colored"></i>
 
