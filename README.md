@@ -1,5 +1,5 @@
-## 💻Jefferson Ryan
+## J. Ryan
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffersonverus)](https://github.com/jeffersonverus/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeffersonverus&theme=dark)](https://git.io/streak-stats)
