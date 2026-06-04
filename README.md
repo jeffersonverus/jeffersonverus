@@ -1,4 +1,10 @@
-## J. Ryan
+<img align='right' src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width=40 title="GitHub" />
+
+### J. RYan
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=jeffersonverus&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Trabalhando na {nome da empresa}<br/> Eu sou desenvolvedor {sua stack}</p>
 
 ### Information Tecnology Mannager | Network & Hardware Professional | Spreaker
 
@@ -26,3 +32,33 @@ Abaixo estão as principais tecnologias, linguagens e ferramentas que utilizo no
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersonverus&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0,
+        "city": "Riga"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [23.900000, 57.040000],
+            [23.900000, 56.860000],
+            [24.320000, 56.860000],
+            [24.320000, 57.040000],
+            [23.900000, 57.040000]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+
+![](https://komarev.com/ghpvc/?username=jeffersonverus&color=006bed)
