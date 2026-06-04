@@ -1,10 +1,8 @@
 <img align='right' src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width=40 title="GitHub" />
 
-### J. RYan
+### J. Ryan
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=jeffersonverus&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
-<p>Trabalhando na {nome da empresa}<br/> Eu sou desenvolvedor {sua stack}</p>
 
 ### Information Tecnology Mannager | Network & Hardware Professional | Spreaker
 
@@ -22,16 +20,25 @@ Abaixo estão as principais tecnologias, linguagens e ferramentas que utilizo no
 | **Sistemas & Hardware** | <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Ubuntu_logoib.svg" width="40" title="Ubuntu" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" title="Kali Linux" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux" />|
 | **Produtividade & Design** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" title="Blender 3D" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg" width="40" title="Excel" /> |
 
----
+<br>
+<br>
 
 <p align="center"><i>"Nadie es Sabio a Cabalo."</i></p>
----
+
+
+<br>
+<br>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersonverus&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
+
+<br>
+<br>
+
+---
 
 ```geojson
 {
@@ -60,5 +67,3 @@ Abaixo estão as principais tecnologias, linguagens e ferramentas que utilizo no
   ]
 }
 ```
-
-![](https://komarev.com/ghpvc/?username=jeffersonverus&color=006bed)
