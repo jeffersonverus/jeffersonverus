@@ -12,6 +12,12 @@ Aqui você vai encontrar projetos, estudos de infraestrutura e códigos em desen
 
 ![Minhas Estatísticas do GitHub](metrics.classic.svg)
 
+---
+
+![Meu Terminal GitHub](metrics.terminal.svg)
+
+---
+
 ## Competências & Tecnologias (Tech Stack)
 
 Abaixo estão as principais tecnologias, linguagens e ferramentas que utilizo no meu dia a dia técnico e nos meus estudos:
