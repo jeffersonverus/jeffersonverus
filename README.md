@@ -11,7 +11,7 @@
 
 ### Information Tecnology Mannager | Experienced Speaker | Cisco CCNA Studant
 
-Aqui você vai encontrar projetos, estudos de infraestrutura e códigos em desenvolvimento. Acredito que a tecnologia só atinge seu potencial quando combinada.
+Aqui você vai encontrar projetos, estudos de infraestrutura e códigos em desenvolvimento. Acredito que a tecnologia só atinge seu potencial quando combinada com os pilares fundamentais.
 
 ---
 
