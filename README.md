@@ -5,7 +5,7 @@
   <img src="metrics.terminal.svg" width="500" alt="Meu Terminal GitHub">
 </div>
 
-### J. Ryan
+### Jefferson.verus
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=jeffersonverus&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
