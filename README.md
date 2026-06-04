@@ -5,7 +5,7 @@
 
 <img alighn='center' src="https://img.shields.io/static/v1?label=Overview&message=jeffersonverus&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-### Information Tecnology Mannager | Experienced Speaker | Cisco CCNA Studant <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Cisco_academy_logo.svg" width=20 title="Cisco Academy"/>
+### Information Tecnology Mannager | Experienced Speaker | Cisco CCNA Studant <img src="https://img.shields.io/badge/Cisco%20Academy-0077B5?style&Academy-0077B5?style=for-the-badge&logo=Cisco&logoColor=white" width=80 title="Cisco Academy"/>
 
 Aqui você vai encontrar projetos, estudos de infraestrutura e códigos em desenvolvimento. Acredito que a tecnologia só atinge seu potencial quando combinada com os pilares fundamentais.
 
