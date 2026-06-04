@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=jeffersonverus&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-### Information Tecnology Mannager | Network & Hardware Professional | Spreaker
+### Information Tecnology Mannager | Experienced Speaker | Cisco CCNA Studant
 
 Aqui você vai encontrar projetos, estudos de infraestrutura e códigos em desenvolvimento. Acredito que a tecnologia só atinge seu potencial quando combinada.
 
