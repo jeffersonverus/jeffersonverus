@@ -60,13 +60,3 @@ Abaixo estão as principais tecnologias, linguagens ou ferramentas que utilizo.
   ]
 }
 ```
-
----
-
-<br>
-<br>
-
-<p align="center"><i>"Nadie es Sabio a Cabalo."</i></p>
-
-<br>
-<br>
