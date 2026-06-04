@@ -1,4 +1,3 @@
-```yaml
 name: Metrics Terminal
 on:
   schedule: [{cron: "0 */12 * * *"}]
