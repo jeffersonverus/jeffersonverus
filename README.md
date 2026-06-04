@@ -26,7 +26,14 @@ Abaixo estão as principais tecnologias, linguagens ou ferramentas que utilizo.
 
 |Tech Stack|Deep|
 |----------|------|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width=40 title="C Language"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=40 title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width=40 title="Visual Studio"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=40 title="Visual Code"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Breezeicons-apps-48-codeblocks.svg"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Internet_Connectivity_An_Overview.svg"/>|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width=40 title="C Language"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width=40 title="MySql"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width=40 title="SQL Language"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Icons8-cisco-packet-tracer.svg" width=40 title="Packet Tracer"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=40 title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width=40 title="Visual Studio"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=40 title="Visual Code"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Breezeicons-apps-48-codeblocks.svg"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Internet_Connectivity_An_Overview.svg"/>|
+<table align="center">
+  <tr>
+    <td bgcolor="#ffffff" align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/R%C3%A9solution_d%27adresse_IP.svg" alt="Topologia de Rede" width="100%">
+    </td>
+  </tr>
+</table>
 
 <br>
 <br>
