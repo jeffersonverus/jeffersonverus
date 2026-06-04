@@ -26,7 +26,7 @@ Abaixo estão as principais tecnologias, linguagens ou ferramentas que utilizo.
 
 |Tech Stack|Deep|
 |----------|------|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width=40 title="C Language"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=40 title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width=40 title="Visual Studio"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=40 title="Visual Code"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Breezeicons-apps-48-codeblocks.svg"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Computer_Networks_anchor_chart.svg"/>|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width=40 title="C Language"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=40 title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width=40 title="Visual Studio"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=40 title="Visual Code"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Breezeicons-apps-48-codeblocks.svg"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Internet_Connectivity_An_Overview.svg"/>|
 
 <br>
 <br>
