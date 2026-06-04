@@ -3,9 +3,9 @@
 
 ### Jefferson.verus
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=jeffersonverus&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img alighn='center' src="https://img.shields.io/static/v1?label=Overview&message=jeffersonverus&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-### Information Tecnology Mannager | Experienced Speaker | Cisco CCNA Studant
+### Information Tecnology Mannager | Experienced Speaker | Cisco CCNA Studant <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Cisco_academy_logo.svg" width=20 title="Cisco Academy"/>
 
 Aqui você vai encontrar projetos, estudos de infraestrutura e códigos em desenvolvimento. Acredito que a tecnologia só atinge seu potencial quando combinada com os pilares fundamentais.
 
@@ -24,9 +24,9 @@ Aqui você vai encontrar projetos, estudos de infraestrutura e códigos em desen
 
 Abaixo estão as principais tecnologias, linguagens ou ferramentas que utilizo.
 
-|Languages|Integrated Development Environment|
-|---------|----------------------------------|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width=40 title="C Language"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width=40 title="Visual Studio"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=40 title="Visual Code"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Breezeicons-apps-48-codeblocks.svg"/>|
+|Tech Stack|Deep|
+|----------|------|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width=40 title="C Language"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=40 title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width=40 title="Visual Studio"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=40 title="Visual Code"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Breezeicons-apps-48-codeblocks.svg"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width=40 title="Shell"/>|
 
 <br>
 <br>
