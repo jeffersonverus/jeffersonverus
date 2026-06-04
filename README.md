@@ -14,7 +14,6 @@ Aqui você vai encontrar projetos, estudos de infraestrutura e códigos em desen
 |---|---|
 |![Minhas Estatísticas do GitHub](metrics.classic.svg)|![Estatísticas do Repositório](metrics.repository.svg)|
 
-
 <br>
 <br>
 
@@ -26,7 +25,7 @@ Abaixo estão as principais tecnologias, linguagens ou ferramentas que utilizo.
 
 |Tech Stack|Deep|
 |----------|------|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width=40 title="C Language"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width=40 title="MySql"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width=40 title="SQL Language"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Icons8-cisco-packet-tracer.svg" width=40 title="Packet Tracer"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=40 title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width=40 title="Visual Studio"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=40 title="Visual Code"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Breezeicons-apps-48-codeblocks.svg"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Internet_Connectivity_An_Overview.svg"/>|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width=40 title="C Language"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Breezeicons-apps-48-codeblocks.svg" witch=40 title="Code::Blocks"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width=40 title="SQL Language"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width=40 title="MySql"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=40 title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=40 title="Visual Code"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Internet_Connectivity_An_Overview.svg"/> |
 <table align="center">
   <tr>
     <td bgcolor="#ffffff" align="center">
