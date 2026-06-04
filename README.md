@@ -1,10 +1,6 @@
 
 <img align='right' src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width=40 title="GitHub" />
 
-<div align="center">
-  <img src="metrics.terminal.svg" width="500" alt="Meu Terminal GitHub">
-</div>
-
 ### Jefferson.verus
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=jeffersonverus&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
@@ -14,29 +10,28 @@
 Aqui você vai encontrar projetos, estudos de infraestrutura e códigos em desenvolvimento. Acredito que a tecnologia só atinge seu potencial quando combinada com os pilares fundamentais.
 
 ---
+|0|1|
+|---|---|
+|![Minhas Estatísticas do GitHub](metrics.classic.svg)|![Estatísticas do Repositório](metrics.repository.svg)|
 
-![Minhas Estatísticas do GitHub](metrics.classic.svg)
+
+<br>
+<br>
 
 ---
 
 ## Competências & Tecnologias (Tech Stack)
 
-Abaixo estão as principais tecnologias, linguagens e ferramentas que utilizo no meu dia a dia técnico e nos meus estudos:
+Abaixo estão as principais tecnologias, linguagens ou ferramentas que utilizo.
+
+|Languages|Integrated Development Environment|
+|---------|----------------------------------|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width=40 title="C Language"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width=40 title="Visual Studio"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=40 title="Visual Code"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Breezeicons-apps-48-codeblocks.svg"/>|
 
 <br>
 <br>
 
-<p align="center"><i>"Nadie es Sabio a Cabalo."</i></p>
-
-<br>
-<br>
-
-![Estatísticas do Repositório](metrics.repository.svg)
-
-<br>
-<br>
-
----
+<p align="center"><i>Que companhia é fundamental para redes, e está localizada na localização abaixo?</i></p>
 
 ```geojson
 {
@@ -67,3 +62,12 @@ Abaixo estão as principais tecnologias, linguagens e ferramentas que utilizo no
 ```
 
 ---
+
+<br>
+<br>
+
+<p align="center"><i>"Nadie es Sabio a Cabalo."</i></p>
+<p align="center"><i>© 2026 jeffersonverus. Todos os direitos reservados.</i></p>
+
+<br>
+<br>
